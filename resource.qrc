@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>xlsx2xml.png</file>
+        <file>xlsx2xml.ico</file>
+    </qresource>
+</RCC>
